@@ -228,3 +228,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/pydev,macos,emacs,python,windows,jupyternotebooks
+
+# Ingore student directory
+*/student/*
