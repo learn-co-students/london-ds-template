@@ -1,5 +1,15 @@
 # Blogs
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Why To Blog](#Why\ To\ Blog)
+- [How To Blog](#How\ To\ Blog)
+    + [Blog Structure](#Blog\ Structure)
+        * [Example](#Example)
+
+## Introduction
+
 An important part of being a professional data scientist is being able to communicate clearly - both in writing and in person. Because of that, we will be asking you to write at five (5) blog posts before graduating. This short readme provides a little more information about why we ask you to blog, what we ask you to blog about, and how we'd like you to blog.
 
 ## Why To Blog
@@ -27,7 +37,7 @@ In thinking about a blog topic, it is important to define a general area of inte
 
 From an insider perspective, writing blogs is very much about signaling that you are the person for the job. Anyone in technology would much rather work with someone who can communicate clearly and can then be taught more complex concepts rather than someone who presumably knows a lot but is difficult to communicate with. This is your chance to show that you are the former and not the latter.
 
-## Example
+## Blog Structure
 
 Since writing is hard, below we offer a boilerplate template that you can follow in order to begin to structure your ideas. You do not have to follow it, but if you master this narrative then you will find that communicating ideas clearly will become much easier over time.
 
@@ -50,27 +60,29 @@ After your walk through, the last thing you want to do is wrap up what you did a
 
 Remember that the “point” of this blog is to show off your ability to convey technical information to a non-technical audience and why that matters. Through your writing, you want to be able to establish credibility as both an eloquent speaker, able of distilling complex information, as well as someone who is technically proficient in what you do. This of course is a big ask. But we are here to push you to be the best version of yourself that we can.
 
-### Topic: How to Choose between Nested Models
+### Example
+
+**Blog Topic**: How to Choose between Nested Models
 
 *Introduction*: How do we know what model to choose?
 There are tons of models in data science
 Sometimes too many!
 Without grounding in some theory, we run the risk of picking the wrong model and should rely on others to inform our choices?
 
-*Operationalization*: In world of data science we have some ways to quantify
+**Operationalization**: In world of data science we have some ways to quantify
 All common problems have way to explore this!
 There are tons of ways of thinking about this, but going to focus on three here and talk about their advantages and drawbacks
 Here going to do mean square error, bayesian information criterion, log likelihood comparison
 
-*Analysis*: I will explain three model comparison metrics
+**Analysis**: I will explain three model comparison metrics
 
-*MSE*: Mean Square error. What is it? Why is it good, why is it bad?
+**MSE**: Mean Square error. What is it? Why is it good, why is it bad?
 
-*BIC*: Same as A
+**BIC**: Same as A
 
-*Log Likelihood*: Same as A
+**Log Likelihood**: Same as A
 
-*Insight*:
+**Insight**:
 All problems are different and tools help us decide
 Given what we learned we want to use BIC for xyz
 Or might us MSE for xyz (but look out bc doesn’t obey statistical distribution!)

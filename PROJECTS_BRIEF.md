@@ -1,12 +1,12 @@
 # Projects
 
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Project Structure](#Project\ Structure)
 - [Project Workflow](#Project\ Workflow)
--  [Project Issues](#Project\ Issues)
-    * [Merge Conflicts](#Merge\ Conflicts)
-
+- [Project Issues](#Project\ Issues)
+  * [Merge Conflicts](#Merge\ Conflicts)
 
 ## Introduction
 
@@ -48,7 +48,6 @@ article on creating [Data Science Portfolios](https://www.dataquest.io/blog/buil
 ![](assets/CreateGithubRepository.gif)
 
 5. _*_ Add your project partner as a collaborator and slack them a copy to the invite link (this won't work until they accept this invite).
-
 6. Copy and run the following code in your terminal. Replace `<github remote url>` with the **git url** to your github project and make sure you're in your project directory, use the `pwd` command to confirm. 
 
 ```bash
@@ -77,14 +76,14 @@ _*_ Steps 4 & 5 are only to be performed by the maintainer of the project.
 10. At this point you will want to update your branch with the new code by doing a checkout into your branch (using `git checkout <YourBranchName>`) and merging the master (using `git merge master`).
 11. Repeat from 2!
 
-_*_ Steps 6 & 7 are only to be performed by the maintainer of the project.
+_*_ Steps 7 & 8 are only to be performed by the maintainer of the project.
 
-Read more about how to pair program here: https://gds.blog.gov.uk/2018/02/06/how-to-pair-program-effectively-in-6-steps/
+Read more about how to pair program [here](https://gds.blog.gov.uk/2018/02/06/how-to-pair-program-effectively-in-6-steps/).
 
-If you’d like to work on your projects over a video call, we would recommend discord (https://discordapp.com/) and/or VSCode that has a live share feature allowing for remote collaborative coding (https://code.visualstudio.com/blogs/2017/11/15/live-share).
+If you’d like to work on your projects over a video call,we would recommend [discord](https://discordapp.com/) and/or VSCode. The latter has a live share feature allowing for remote collaborative coding [VSCode ](https://code.visualstudio.com/blogs/2017/11/15/live-share).
 
 ## Project Issues
 
 ### Merge conflicts
 
-You may stumble on a number of merge conflicts when dealing with Jupyter notebooks. We recommend using [sublime merge](https://www.sublimemerge.com/) to fix these.
+You may stumble on a number of merge conflicts when dealing with Jupyter notebooks. We recommend using [sublime merge](https://www.sublimemerge.com/) to fix these. Approach your instructor/coach to learn how to fix these.
