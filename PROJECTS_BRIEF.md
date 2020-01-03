@@ -3,10 +3,10 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project Structure](#Project\ Structure)
-- [Project Workflow](#Project\ Workflow)
-- [Project Issues](#Project\ Issues)
-  * [Merge Conflicts](#Merge\ Conflicts)
+- [Project Structure](#project-structure)
+- [Project Workflow](#project-workflow)
+- [Project Issues](#project-issues)
+  * [Merge Conflicts](#merge-conflicts)
 
 ## Introduction
 

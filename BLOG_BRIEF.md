@@ -3,10 +3,10 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Why To Blog](#Why\ To\ Blog)
-- [How To Blog](#How\ To\ Blog)
-    + [Blog Structure](#Blog\ Structure)
-        * [Example](#Example)
+- [Why To Blog](#why-to-blog)
+- [How To Blog](#how-to-blog)
+    + [Blog Structure](#blog-structure)
+        * [Example](#example)
 
 ## Introduction
 
