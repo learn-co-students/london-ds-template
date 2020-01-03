@@ -1,8 +1,14 @@
 # london-ds-<cohort_code>
 
-[Blogs](<blog_url>), [Project Tracker](<project_tracker_url>), [Calendar](google_calendar_url)
-
 Welcome cohort <cohort_code>!
+
+Links to various resources you will need over the course of the programme.
+
+| Resource        | Link |
+|-----------------|------|
+| Blogs           |      |
+| Project Tracker |      |
+| Calendar        |      |
 
 Make sure to read through/refer to the following briefs that cover your blogs and projects:
 - [Blogs](BLOG_BRIEF.md)
