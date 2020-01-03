@@ -1,4 +1,4 @@
-# Blogging
+# Blogs
 
 An important part of being a professional data scientist is being able to communicate clearly - both in writing and in person. Because of that, we will be asking you to write at five (5) blog posts before graduating. This short readme provides a little more information about why we ask you to blog, what we ask you to blog about, and how we'd like you to blog.
 
