@@ -113,23 +113,26 @@ The above will confirm to you that your local computer can now communicate with 
 ## Helpful Resources
 
 ### Industry
-    - Data Machina - https://datamachina.substack.com/
-    - Towards Data Science - https://towardsdatascience.com/
-    - KD Nuggets - https://www.kdnuggets.com/
-    - Analytics Vidya - https://www.analyticsvidhya.com/
-    - The Algorithm - https://forms.technologyreview.com/the-algorithm/
-    - Becoming a Data Scientist - http://www.becomingadatascientist.com/
-    - Variance Explained - http://varianceexplained.org/posts/
-    - Daniel Lakens - http://daniellakens.blogspot.com/
-    - The Deepmind Podcast - https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast
-    - Data Science Blogs - https://github.com/rushter/data-science-blogs
+
+- [Data Machina](https://datamachina.substack.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [KD Nuggets](https://www.kdnuggets.com/)
+- [Analytics Vidya](https://www.analyticsvidhya.com/)
+- [The Algorithm](https://forms.technologyreview.com/the-algorithm/)
+- [Becoming a Data Scientist](http://www.becomingadatascientist.com/)
+- [Variance Explained](http://varianceexplained.org/posts/)
+- [Daniel Lakens](http://daniellakens.blogspot.com/)
+- [The Deepmind Podcast](https://deepmind.com/blog/article-welcome-to-the-deepmind-podcast)
+- [Data Science Blogs](https://github.com/rushter/data-science-blogs)
 
 ### Git
-    - https://www.atlassian.com/git
-    - https://try.github.io/
-    - https://learngitbranching.js.org/
-    - https://git-scm.com/docs/
+
+- https://www.atlassian.com/git
+- https://try.github.io/
+- https://learngitbranching.js.org/
+- https://git-scm.com/docs/
 
 ### SQL
-    - https://mode.com/sql-tutorial/
-    - https://sqlbolt.com/
+
+- https://mode.com/sql-tutorial/
+- https://sqlbolt.com/
