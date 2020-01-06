@@ -1,4 +1,4 @@
-# Environment Tips
+# Tips
 
 ## Table of Contents
 
@@ -6,6 +6,10 @@
     + [Check SSH Key](#checking-current-status)
         * [Generate SSH Key](#generate-ssh-key)
         * [Link SSH Key](#link-ssh-key)
+- [Helpful Resources](#helpul-resources)
+    + [Industry](#industry)
+    + [Git](#git)
+    + [SQL](#sql)
 
 ## SSH
 
@@ -105,3 +109,27 @@ The above will confirm to you that your local computer can now communicate with 
 ```bash
     Hi <your GitHub username>! You've successfully authenticated, but GitHub does not provide shell access.
 ```
+
+## Helpful Resources
+
+### Industry
+    - Data Machina - https://datamachina.substack.com/
+    - Towards Data Science - https://towardsdatascience.com/
+    - KD Nuggets - https://www.kdnuggets.com/
+    - Analytics Vidya - https://www.analyticsvidhya.com/
+    - The Algorithm - https://forms.technologyreview.com/the-algorithm/
+    - Becoming a Data Scientist - http://www.becomingadatascientist.com/
+    - Variance Explained - http://varianceexplained.org/posts/
+    - Daniel Lakens - http://daniellakens.blogspot.com/
+    - The Deepmind Podcast - https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast
+    - Data Science Blogs - https://github.com/rushter/data-science-blogs
+
+### Git
+    - https://www.atlassian.com/git
+    - https://try.github.io/
+    - https://learngitbranching.js.org/
+    - https://git-scm.com/docs/
+
+### SQL
+    - https://mode.com/sql-tutorial/
+    - https://sqlbolt.com/
