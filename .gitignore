@@ -231,6 +231,6 @@ $RECYCLE.BIN/
 
 # Ingore student directory
 student/
-projects/
+project/
 */student/*
-*/projects/*
+*/project/*
